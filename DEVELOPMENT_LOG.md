@@ -32,68 +32,68 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 18,2026,7:00PM]
+**What I did**:creat github account,forked repository ,and set my personal detalis.
 
-**Details**: 
+**Details**: creat github with my collage email rename the repostoris changed student id
 
-**Challenges**: 
+**Challenges**: no challenges is clear.
 
-**Solution**: 
+**Solution**: followed the steps 
 
-**Time spent**: 
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: one hour
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 19,2026,10:PM]
+**What I did**:installed VS code ,JDK,GIT,and necessary extensions. 
 
-**Details**: 
+**Details**: downloaded and installed VS code Installed java extensions.
 
-**Challenges**: 
+**Challenges**: git was not recognized in VScode
 
-**Solution**: 
+**Solution**: use more than 1 apps.
 
-**Time spent**: 
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 2 hour
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 3 - [ March 25,2026,1:00PM]
+**What I did**: implemented the frist featur 
 
-**Details**: 
+**Details**: add varible name priority modified constructor added get method
 
-**Challenges**: 
+**Challenges**: find the line in the program
 
-**Solution**: 
+**Solution**: search 
 
-**Time spent**: 
+**Time spent**: 1 hour
+
+---
+
+### Entry 4 - [March 26,2026.7:00AM]
+**What I did**:  implemented the secound featur 
+
+**Details**: added counter of context switch in the class of main incremented the counter and print it.
+
+**Challenges**: making sure the counter is increment 
+
+**Solution**: placed inside while loop
+
+**Time spent**: 2 hours
+
+---
+
+### Entry 5 - [March 27,2026,5:PM]
+**What I did**:  implemented the  featur 3
+
+**Details**: add many variable in class process and get method for each
+
+**Challenges**: calculating wating time correctly
+
+**Solution**: calld updatingWatingTime()method
+
+**Time spent**: 2 hour
 
 ---
 
@@ -112,10 +112,10 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [12 hours]
 
-**Most challenging part**: 
+**Most challenging part**: the secound part 
 
-**Most interesting learning**: 
+**Most interesting learning**: the hithub 
 
-**What I would do differently next time**: 
+**What I would do differently next time**: be more faster 
